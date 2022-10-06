@@ -7,3 +7,14 @@ body{
 .capa {
     width: 100%;
 }
+.beneficios{
+    text-align: left;
+    background-color: rgb(88, 64, 47);
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+}
+.foto-beneficios{
+    width: 40%;
+}
